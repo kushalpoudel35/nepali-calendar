@@ -1,2 +1,2 @@
 # nepali-calendar
-A method to display nepali date and time in the browser
+A simple python GUI that displays the current Nepali date
